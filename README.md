@@ -2,8 +2,8 @@
 <h3>Description</h3>
 <br>
 <ol>
-<li>Divided functionality in components as:<li>
-<li><ul>
+<li>Divided functionality in components as:
+<ul>
 <li>Avatar</li>
 <li>Intro</li>
 <li>SkillList</li>

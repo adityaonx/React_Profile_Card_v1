@@ -1,1 +1,1 @@
-![Alt text][(https://drive.usercontent.google.com/download?id=1s5zher2XhQdDaE_D2Z9djEG2atUKEAHs&export=download&authuser=0&confirm=t&uuid=10c35515-9cab-41d7-981b-0d626d83c6ac&at=APZUnTXQAQwe-uDLKL6qKWdmiEqi:1699696128956)]
+![Alt text][(https://github.com/adityaonx/React_Profile_Card_v1/blob/main/preview.png?raw=true)]
